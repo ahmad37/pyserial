@@ -6,7 +6,7 @@
 # (C) 2008-2015 Chris Liechti <cliechti@gmx.net>
 #
 # SPDX-License-Identifier:    BSD-3-Clause
-
+/***********************************************************/
 from __future__ import absolute_import
 
 import System
